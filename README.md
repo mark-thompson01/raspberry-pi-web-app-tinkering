@@ -25,6 +25,14 @@ The lab environment consists of two interconnected VMs:
 
 
 ## 🛠️ Tech Used
+- Oracle VirtualBox
+- Kali Linux VM
+- Raspberry Pi 3
+- nmap, nikto
+- dirb, dirbuster, gobuster
+- Burp Suite
+- Apache, WebDAV
+- bash
 
 
 ---
