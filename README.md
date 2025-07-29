@@ -17,7 +17,8 @@ Through this project, I aim to showcase my understanding of reconnaissance techn
 ## Lab Setup
 The lab environment consists of two interconnected VMs:
 
-> **Kali Linux VM:** Platform used to carry out enumeration and exploitation activities of the web server.
+> **Kali Linux VM:** Platform utilized to apply various offensive security tools on Raspberry Pi target.
+> **Raspberry Pi 3:** Dummy web server configured with WebDAV implementation for demonstration purposes.
 
 
 ---
