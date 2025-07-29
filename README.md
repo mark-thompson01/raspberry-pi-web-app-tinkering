@@ -39,6 +39,16 @@ The lab environment consists of two interconnected VMs:
 
 
 ## 🔁 How to Recreate This Lab
+- Download and install Oracle VirtualBox.
+- Download, install, and setup a Kali Linux VM.
+- Setup network connected Raspberry Pi 3.
+- Configure Apache Web Server with purposely vulnerable WebDAV configuration.
+- Perform vulnerability scanning with nmap and nikto.
+- Run multiple nmap commands in a single bash script.
+- Perform directory busting with dirb, dirbuster, gobuster.
+- Analyze web application behavior via http methods with Burp Suite.
+
+
 
 
 ---
@@ -57,6 +67,7 @@ Through this project, I have learned how to:
 - Perform vulnerability scanning with nmap and nikto
 - Exploit a Reflective XSS Vulnerability
 - Mitigate a Reflective XSS Vulnerability
+- Understanding how Apache and WebDAV function together.
 - Analysis and reporting
 
 
