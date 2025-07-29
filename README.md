@@ -40,7 +40,15 @@ Through this project, I have learned how to:
 
 
 ---
-
+- Tinker around with a Raspberry Pi.
+- Set up WebDAV vulnerabilities to purposely demonstrate exploitation.
+- Automate Active Reconnaissance with nmap commands in bash scripts.
+- Practice directory busting with dirb, dirbuster, gobuster.
+- Analyze different HTTP methods and analyzing the responses via Burp Suite.
+- Perform vulnerability scanning with nmap and nikto
+- Exploit a Reflective XSS Vulnerability
+- Mitigate a Reflective XSS Vulnerability
+- Analysis and reporting
 
 
 ## 📁 More from Me
